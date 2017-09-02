@@ -12,12 +12,27 @@
   },
   "keywords": [
     "angular",
-    "material-design"
+    "material"
   ],
   "author": "Onno Haldar",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zgwnu/ng-md-addons/issues"
   },
-  "homepage": "https://github.com/zgwnu/ng-md-addons#readme"
+  "homepage": "https://github.com/zgwnu/ng-md-addons#readme",
+  "devDependencies": {
+    "@angular/animations": "^4.3.5",
+    "@angular/cdk": "^2.0.0-beta.8",
+    "@angular/common": "^4.3.5",
+    "@angular/core": "^4.3.5",
+    "@angular/compiler": "^4.3.6",
+    "@angular/flex-layout": "^2.0.0-beta.8",
+    "@angular/forms": "^4.3.5",
+    "@angular/material": "^2.0.0-beta.8",
+    "@angular/platform-browser": "^4.3.5",
+    "@angular/platform-browser-dynamic": "^4.3.5",
+    "@angular/platform-server": "^4.3.5",
+    "rxjs": "^5.4.3",
+    "zone.js": "^0.8.17"
+  }
 }
