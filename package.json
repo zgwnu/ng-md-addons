@@ -2,7 +2,7 @@
   "name": "@zgwnu/ng-md-addons",
   "version": "1.0.0",
   "description": "Additional Angular Material Design Components en Services developed by ZGW NU",
-  "main": "dist/index.js",
+  "main": "index.ts",
   "scripts": {
     "build": "tsc -p src",
     "test": "echo test"
@@ -36,8 +36,5 @@
     "@angular/platform-server": "^4.3.6",
     "rxjs": "^5.4.3",
     "zone.js": "^0.8.16"
-  },
-  "devDependencies": {
-    "typescript": "^2.5.2"
   }
 }
