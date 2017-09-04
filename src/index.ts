@@ -1,5 +1,3 @@
-export * from './datepicker/datepicker.module'
-
 // images viewer
 export * from './images-viewer/zgwnu-images-viewer.component'
 
